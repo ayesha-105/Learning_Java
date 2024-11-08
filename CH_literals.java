@@ -18,7 +18,7 @@ public class CH_literals {
         System.out.println(ch);
         System.out.println(f1);
         System.out.println(d1);
-        String name= "Ayesha Malik";
+        String name= "Farah Malik";
         System.out.println(name);
             
         
