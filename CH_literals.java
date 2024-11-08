@@ -1,3 +1,7 @@
+
+/*  literals are constant values that can be assigned to a variable constant values are fixed values 
+that do not change during the execution of a program. */
+
 public class CH_literals {
     public static void main(String[] args) {
         byte age=34;
