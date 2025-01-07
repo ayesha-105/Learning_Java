@@ -14,6 +14,7 @@ public class Arrays {
         marks[3] = 400;
         marks[4] = 500;
         System.out.println(marks[3]);
+        System.out.println(marks.length);  //check a length of array
         
          }
     
